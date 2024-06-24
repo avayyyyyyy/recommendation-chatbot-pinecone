@@ -18,8 +18,8 @@ This project is a recommendation chatbot that uses Pinecone for vector indexing 
 1. **Clone the repository**:
 
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/avayyyyyyy/recommendation-chatbot-pinecone
+   cd recommendation-chatbot-pinecone
    ```
 
 2. **Install dependencies**:
