@@ -15,3 +15,5 @@ export const FaqInfoUSA =
 // - What is the capital of the United States?
 // - What is the population of China?
 // - What is the largest country by land area?
+// - What is the most populous country?
+// - What is the most populous democracy in the world?
