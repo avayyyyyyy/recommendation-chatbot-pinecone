@@ -94,7 +94,7 @@ const askQuestion = async (question: string) => {
     messages: [
       {
         role: "assistant",
-        content: `Answer the question based on the following relevant information: ${JSON.stringify(
+        content: `Answer the user's question based on the following relevant information: ${JSON.stringify(
           relevantInfo
         )}`,
       },
